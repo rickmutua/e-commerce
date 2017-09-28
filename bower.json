@@ -1,0 +1,20 @@
+{
+  "name": "e-commerce",
+  "dependencies": {
+    "slick-carousel": "1.5.8"
+  },
+  "authors": [
+    "Erick <rick.mutua12@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

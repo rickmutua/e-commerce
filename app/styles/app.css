@@ -1,0 +1,79 @@
+#img {
+  width: 265px;
+  height: 400px;
+}
+
+#img1 {
+  height: 544px;
+  width: 700px;
+}
+
+#img2 {
+  width: 700px;
+  height: 544px;
+}
+
+.heading {
+  text-align: center;
+  margin-top: 40px;
+}
+
+h2 {
+  font-weight: bold;
+  font-family: sans-serif;
+  text-decoration: underline;
+}
+
+h3 {
+  font-weight: bold;
+  color: grey;
+}
+
+#headers {
+  font-weight: bold;
+  font-size: 50px;
+  font-family: serif;
+}
+
+#desc {
+  font-family: fantasy;
+  color: grey;
+  font-size: 18px;
+}
+
+#col {
+  text-align: center;
+  margin-top: 100px;
+}
+button #index {
+  color: black;
+  background-color: white;
+  border-color: black;
+  margin-top: 20px;
+  border-radius: 5px;
+  width: 150px;
+}
+
+button:hover {
+  color: white;
+  background-color: black;
+}
+
+#shirt-col {
+  text-align: center;
+  margin-top: 100px;
+}
+
+.row :hover button {
+  color: white;
+  background-color: black;
+}
+
+#list-images {
+  width: 300px;
+  height: 400px;
+}
+
+h2 {
+  text-align: center;
+}

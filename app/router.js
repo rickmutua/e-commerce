@@ -7,6 +7,11 @@ const Router = Ember.Router.extend({
 });
 
 Router.map(function() {
+  this.route('shirt');
+  this.route('short');
+  this.route('trouser');
+  this.route('hoodie');
+  this.route('outerwear');
 });
 
 export default Router;
